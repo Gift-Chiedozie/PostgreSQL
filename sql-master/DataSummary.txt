@@ -1,6 +1,0 @@
--- Data Summary
-Table: earthquake
-Columns: 10
-Rows: 23,119
-Magnitude Range: 5.5+
-Date Range: 1969-2018
