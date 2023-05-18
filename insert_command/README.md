@@ -1,4 +1,4 @@
--- The insert command
+-- The insert command: Is used to input new items into each row of a given table
 --Its table outlooks and/or columns names
 CREATE TABLE chitter_user
 (
